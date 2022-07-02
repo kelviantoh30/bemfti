@@ -35,7 +35,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #0eb582;
+  background: #D39AFF;
 }
 
 section {
@@ -1051,7 +1051,7 @@ cursor: pointer;
 }
 
 .footer {
-  background: #f0fdfa;
+  background: #Fdf7ff;
 }
 
 .footer .box-container {
@@ -1082,7 +1082,7 @@ cursor: pointer;
   width: 175px;
   line-height: 4.5rem;
   font-size: 1.7rem;
-  background-color: #0eb582;
+  background-color: #C981ff;
   color: #fff;
   margin-right: .3rem;
   text-align: center;
@@ -1101,7 +1101,7 @@ cursor: pointer;
 }
 
 .footer .box-container .box .link:hover {
-  color: #0eb582;
+  color: #C981ff;
   text-decoration: underline;
 }
 
@@ -1131,7 +1131,7 @@ cursor: pointer;
 }
 
 .footer .credit span {
-  color: #0eb582;
+  color: #C981ff;
 }
 
 @media (max-width: 1200px) {
